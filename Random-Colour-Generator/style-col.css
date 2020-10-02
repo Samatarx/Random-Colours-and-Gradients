@@ -4,6 +4,7 @@ body {
     place-items: center;
     background-color: #ffffff;
     margin: 0;
+    overflow: hidden;
 }
 
 .top {
