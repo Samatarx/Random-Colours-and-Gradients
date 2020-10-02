@@ -86,9 +86,9 @@ h1 {
   }
   
   @media (max-width: 600px) {
-    body {
+    .main {
       margin-bottom: 100px;
-      padding-bottom: 100px;
+      /* padding-bottom: 100px; */
     }
 
     h1,
