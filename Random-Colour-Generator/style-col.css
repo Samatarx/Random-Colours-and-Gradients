@@ -87,7 +87,7 @@ h1 {
   
   @media (max-width: 600px) {
     body {
-      padding-bottom: 50px;
+      margin-bottom: 100px;
     }
 
     h1,
