@@ -97,6 +97,9 @@ textarea {
 }
 
 @media (max-width: 600px) {
+  body {
+    margin-bottom: 50px;
+  }
   
   h1,
   h2 {
